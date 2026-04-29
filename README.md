@@ -1,3 +1,5 @@
+//  Write a program to take numbers from the user and store them in an array.
+
 import java.util.Scanner;
 public class Main {
     public static void main(String []args){
